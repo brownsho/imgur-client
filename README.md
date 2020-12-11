@@ -3,7 +3,9 @@ This project is a simple integration of the [**imgur api**](https://apidocs.imgu
 It was a school project at the very beginning but I decided to improve it.
 
 ## Configure API credentials
+***
 Before all, you must fill the informations in `lib/env.dart` :  
+
 ```dart
 const api = {
 	'clientID': 'imgur client id',
