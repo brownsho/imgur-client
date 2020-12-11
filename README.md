@@ -1,6 +1,6 @@
 # imgur-client 
 
-This project is a simple integration of the [**imgur api**](https://apidocs.imgur.com/) in Flutter.  
+This project is a simple integration of the [**Imgur api**](https://apidocs.imgur.com/) in Flutter.  
 It was a school project at the very beginning but I decided to improve it.
 
 ## Configure API credentials
@@ -15,17 +15,23 @@ const api = {
 	'state': 'imgur-client',
 };
 ```
-This will allow queries to the imgur api to work properly.  
+This will allow queries to the Imgur api to work properly.  
 
+## How to run
+
+Install flutter on your system and then run :
+
+```flutter run```
 
 ## Features
 
-<<<<<<< HEAD
-- [] Write the press release
-- [ ] Update the website
-- [ ] Contact the mediad
-=======
-- ✅ Write the press release
-- [ ] Update the website
-- [ ] Contact the mediad
->>>>>>> 9b281c2eacb55d0e087ac7ed7e1fb74a971e6dad
+- ✅ OAuth with Imgur API
+- ✅ Homescreen with trending images (like/view count)
+- ✅ Search images
+- ✅ Like/Dislke images
+- ✅ Profil informations
+- ✅ Upload/View images
+
+## Preview
+
+![Homescreen](preview.png)
