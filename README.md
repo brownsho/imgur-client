@@ -20,6 +20,12 @@ This will allow queries to the imgur api to work properly.
 
 ## Features
 
+<<<<<<< HEAD
 - [] Write the press release
 - [ ] Update the website
 - [ ] Contact the mediad
+=======
+- ✅ Write the press release
+- [ ] Update the website
+- [ ] Contact the mediad
+>>>>>>> 9b281c2eacb55d0e087ac7ed7e1fb74a971e6dad
